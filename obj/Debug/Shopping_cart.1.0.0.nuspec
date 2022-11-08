@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Shopping_cart</id>
+    <version>1.0.0</version>
+    <authors>Shopping_cart</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/Images/close.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Images/credit.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Images/icon_close.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Images/mastercart.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Images/P1.jpg" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Images/P2.jpg" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Images/P3.jpg" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Images/visa.png" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\bin\Debug\net6.0-windows\Shopping_cart.runtimeconfig.json" target="lib\net6.0-windows7.0\Shopping_cart.runtimeconfig.json" />
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\bin\Debug\net6.0-windows\Shopping_cart.dll" target="lib\net6.0-windows7.0\Shopping_cart.dll" />
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\Images\close.png" target="content\Images\close.png" />
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\Images\close.png" target="contentFiles\any\net6.0-windows7.0\Images\close.png" />
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\Images\credit.png" target="content\Images\credit.png" />
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\Images\credit.png" target="contentFiles\any\net6.0-windows7.0\Images\credit.png" />
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\Images\icon_close.png" target="content\Images\icon_close.png" />
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\Images\icon_close.png" target="contentFiles\any\net6.0-windows7.0\Images\icon_close.png" />
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\Images\mastercart.png" target="content\Images\mastercart.png" />
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\Images\mastercart.png" target="contentFiles\any\net6.0-windows7.0\Images\mastercart.png" />
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\Images\P1.jpg" target="content\Images\P1.jpg" />
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\Images\P1.jpg" target="contentFiles\any\net6.0-windows7.0\Images\P1.jpg" />
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\Images\P2.jpg" target="content\Images\P2.jpg" />
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\Images\P2.jpg" target="contentFiles\any\net6.0-windows7.0\Images\P2.jpg" />
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\Images\P3.jpg" target="content\Images\P3.jpg" />
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\Images\P3.jpg" target="contentFiles\any\net6.0-windows7.0\Images\P3.jpg" />
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\Images\visa.png" target="content\Images\visa.png" />
+    <file src="C:\Users\Alcya\Desktop\octobre_code\Shopping_cart\Images\visa.png" target="contentFiles\any\net6.0-windows7.0\Images\visa.png" />
+  </files>
+</package>
